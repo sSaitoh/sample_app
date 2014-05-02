@@ -4,6 +4,7 @@ ruby '2.0.0'
 
 gem 'rails', '4.0.2'
 gem 'bootstrap-sass', '2.3.2.0'
+gem 'bcrypt-ruby', '3.1.2'
 # add for error
 # http://woshidan.hatenablog.com/entry/2014/03/25/224333
 gem 'sprockets', '2.11.0'
